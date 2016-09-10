@@ -1,0 +1,39 @@
+[{
+  "service": "service0",
+  "contractor": "contractor0"
+},{
+  "service": "service1",
+  "contractor": "contractor1"
+},
+  {
+    "service": "service2",
+    "contractor": "contractor2"
+  },
+  {
+    "service": "service3",
+    "contractor": "contractor3"
+  },
+  {
+    "service": "service4",
+    "contractor": "contractor4"
+  },
+  {
+    "service": "service5",
+    "contractor": "contractor5"
+  },
+  {
+    "service": "service6",
+    "contractor": "contractor6"
+  },
+  {
+    "service": "service7",
+    "contractor": "contractor7"
+  },
+  {
+    "service": "service8",
+    "contractor": "contractor8"
+  },
+  {
+    "service": "service9",
+    "contractor": "contractor9"
+  }]
